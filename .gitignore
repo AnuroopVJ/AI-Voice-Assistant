@@ -5,6 +5,11 @@ build/
 dist/
 wheels/
 *.egg-info
-
+frontend_orch
+dbs
+KMS
+.vscode
+.devcontainer.json
 # Virtual environments
 .venv
+.env
