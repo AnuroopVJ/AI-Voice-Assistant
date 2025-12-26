@@ -1,4 +1,6 @@
 # Kyle - AI Voice Assistant
+<div style="width:700px;height:200px;overflow:hidden"><img src="banner_kyle.png" style="width:70%;height:30%;object-fit:cover"></div>
+
 
 
 Kyle is an AI voice assistant developed using the LiveKit framework. 
@@ -23,3 +25,4 @@ Tech stack and Working
    uv add -r requirements.txt
 4. Run the following command to run the agent locally
    python agents.py console
+
