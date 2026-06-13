@@ -30,7 +30,7 @@ server = AgentServer()
 
 
 @server.rtc_session()
-async def my_agent(ctx: agents.JobContext):
+async def kyle_agent(ctx: agents.JobContext):
     session = AgentSession(
         llm=groq.LLM(
         model="meta-llama/llama-4-maverick-17b-128e-instruct"
